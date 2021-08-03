@@ -16,10 +16,7 @@
 
 ##### Statistical Model
 
-For Store 1 – Build  prediction models to forecast demand
+-For Store 1 – Build  prediction models to forecast demand
 
-Linear Regression – Utilize variables like date and restructure dates as 1 for 5 Feb 2010 (starting from the earliest date in order). Hypothesize if CPI, unemployment, and fuel price have any impact on sales.
-
-Change dates into days by creating new variable.
-
-Select the model which gives best accuracy.
+-Linear Regression – Utilize variables like date and restructure dates as 1 for 5 Feb 2010 (starting from the earliest date in order). Hypothesize if CPI, unemployment, and fuel price have any impact on sales.
+- Change dates into days by creating new variable.
